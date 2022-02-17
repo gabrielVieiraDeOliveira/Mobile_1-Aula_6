@@ -1,0 +1,5 @@
+package model
+
+enum class MovieClassification {
+    MAOIRESDE18,MENORESDE16,MENORESDE14,MENORESDE12,LIVREPARATODOS
+}
